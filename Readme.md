@@ -6,8 +6,6 @@ Welcome! This repository contains my resume, including my projects, technical sk
 
 I am Praveen KR, a Full Stack Developer interested in building scalable web applications, SaaS platforms, and AI-powered solutions.
 
-## Resume
-
 ## Contact
 
 Email: [iamkrpraveen@gmail.com](mailto:iamkrpraveen@gmail.com)
