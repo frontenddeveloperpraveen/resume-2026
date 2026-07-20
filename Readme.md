@@ -9,6 +9,5 @@ I am Praveen KR, a Full Stack Developer interested in building scalable web appl
 ## Contact
 
 Email: [iamkrpraveen@gmail.com](mailto:iamkrpraveen@gmail.com)
-e
 
 Thank you for visiting. I look forward to connecting with you.
